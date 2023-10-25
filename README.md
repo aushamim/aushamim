@@ -1,4 +1,4 @@
-<h1><img src="https://cdn3.emoji.gg/emojis/4562-hibubble.gif" width=40/> Shamim Here!</h1>
+<h1><img src="https://cdn3.emoji.gg/emojis/4562-hibubble.gif" width=40 height=40/> Shamim Here!</h1>
 
 - 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width=30/>
 - 🌱 I’m a **Full-Stack Developer** mainly focusing on **Front-end**
