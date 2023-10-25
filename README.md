@@ -1,25 +1,4 @@
-<img src="https://cdn3.emoji.gg/emojis/4562-hibubble.gif" width=40 display=block/> <h1>Shamim Here!</h1>
-
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-
-  </foreignObject>
-</svg>
+<img src="https://cdn3.emoji.gg/emojis/4562-hibubble.gif" width=40 display=block/> <h1 display=inline-block>Shamim Here!</h1>
 
 - 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width=30/>
 - 🌱 I’m a **Full-Stack Developer** mainly focusing on **Front-end**
