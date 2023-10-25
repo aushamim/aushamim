@@ -1,6 +1,6 @@
-# <img src="https://cdn3.emoji.gg/emojis/4562-hibubble.gif" width=50/> Shamim here!
+<img src="https://cdn3.emoji.gg/emojis/4562-hibubble.gif" width=40/> <span style="font-size:2rem; font-weight:600; line-height:1.25;">Shamim Here!</span>
 
-- 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width=50/>
+- 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width=30/>
 - 🌱 I’m a **Full-Stack Developer** mainly focusing on **Front-end**
 - 👀 I'm interested in **Dev & Designing**
 - 💻 I am currently focusing on **competitive programming**
