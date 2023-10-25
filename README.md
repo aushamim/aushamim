@@ -1,6 +1,6 @@
 # ![](https://cdn3.emoji.gg/emojis/4562-hibubble.gif) Shamim Here!
 
-- 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width=30/>
+- 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width="30"/>
 - 🌱 I’m a **Full-Stack Developer** mainly focusing on **Front-end**
 - 👀 I'm interested in **Dev & Designing**
 - 💻 I am currently focusing on **competitive programming**
