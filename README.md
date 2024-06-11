@@ -1,11 +1,12 @@
 # 👋 Shamim here!
 
 - 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width="40"/>
-- 🌱 I’m a **Full-Stack Developer** mainly focusing on **Front-end**
-- 👀 I'm interested in **Dev & Designing**
-- 💻 I am currently focusing on **competitive programming**
+- 🌱 I’m a **Full-Stack Web Developer** mainly focusing on **Front-end**
+- 👀 I'm interested in **Development & Designing**
+- 💻 I am currently trying **competitive programming**
+- 🧠 I am currently learning **Django & DRF**
 - 🎮 I like to play games or watch anime on free time
-  <!-- - 📖 I'm an undergraduate student from **Daffodil International University** -->
+- 📖 I have graduated from **Daffodil International University** obtaining B.Sc degree
   <!-- - 🤓 Next I will try to learn Next.JS also getting a job -->
 
 ### You can find me at
@@ -47,7 +48,7 @@
 [![](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aushamim)
 
 <!--
-Stats. Will Impliment someday
+Stats. Will Implement someday
 https://github.com/anmol098/waka-readme-stats
 https://youtu.be/eHaXw8Bd_ms?t=723
 -->
