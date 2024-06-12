@@ -23,7 +23,7 @@
   ![](https://img.shields.io/badge/CSS-0c73b8?style=flat&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/JS-e7a328?style=flat&logo=javascript&logoColor=white)  
   ![](https://img.shields.io/badge/ReactJS-087ea4?style=flat&logo=react&logoColor=white)
-  ![](https://img.shields.io/badge/NextJS-4c4c4c?style=flat&logo=next.js&logoColor=white)
+  ![](https://img.shields.io/badge/NextJS-222d3d?style=flat&logo=next.js&logoColor=white)
   ![](https://img.shields.io/badge/Django-092d1f?style=flat&logo=django&logoColor=white)  
   ![](https://img.shields.io/badge/Bootstrap-7910f2?style=flat&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/Tailwind-07b0ce?style=flat&logo=tailwindcss&logoColor=white)
