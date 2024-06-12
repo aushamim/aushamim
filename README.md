@@ -52,7 +52,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,java,js" height="30"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,java,js" height="30" alt="language icons"/>
 
 ### Competitive Programming
 
@@ -62,6 +62,8 @@
 [![](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aushamim)
 
 ### My Contributions
+
+<img src="https://raw.githubusercontent.com/aushamim/aushamim/output/github-contribution-grid-snake.svg" alt="snake eating my contribution" />
 
 <!--
 Stats. Will Implement someday
