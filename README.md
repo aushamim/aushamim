@@ -34,11 +34,11 @@
 - Back-end Development  
   ![](https://img.shields.io/badge/NodeJS-3c823b?style=flat&logo=nodedotjs&logoColor=white)
   ![](https://img.shields.io/badge/Express-a60070?style=flat&logo=express&logoColor=white)
-  ![](https://img.shields.io/badge/Firebase-ffa610?style=flat&logo=firebase&logoColor=white)
   ![](https://img.shields.io/badge/Django_Rest_Framework-a30000?style=flat&logo=django&logoColor=white)
 
 - Databases  
   ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![](https://img.shields.io/badge/Firebase-ffa610?style=flat&logo=firebase&logoColor=white)
   ![](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
   ![](https://img.shields.io/badge/PostgreSQL-3b6693?style=flat&logo=postgresql&logoColor=white)
