@@ -1,10 +1,10 @@
-# 👋 Shamim here!
+# 👋 Shamim here! <div><picture><source media="(prefers-color-scheme: dark)" srcset="https://visitor-badge.laobi.icu/badge?page_id=aushamim.aushamim&left_color=%231f2936&right_color=%231f2936&left_text=~" /><source media="(prefers-color-scheme: light)" srcset="https://visitor-badge.laobi.icu/badge?page_id=aushamim.aushamim&left_color=%23f4f8ff&right_color=%231f2936&left_text=~" /><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aushamim.aushamim&left_color=%23f4f8ff&right_color=%231f2936&left_text=~" alt="snake eating my contribution animation" /></picture></div>
 
 - 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width="40"/>
 - 🌱 I’m a **Full-Stack Web Developer** mainly focusing on **Front-end**
 - 👀 I'm interested in **Development & Designing**
 - 💻 I am currently trying **competitive programming**
-- 🧠 I am currently learning **Django & DRF**
+- 🧠 I am currently learning **Next.js & Redux**
 - 🎮 I like to play games or watch anime on free time
 - 📖 I have graduated from **Daffodil International University** obtaining B.Sc degree
   <!-- - 🤓 Next I will try to learn Next.JS also getting a job -->
