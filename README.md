@@ -1,4 +1,4 @@
-# 👋 Shamim here! <div><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aushamim.aushamim&left_color=%23555555&right_color=%231f2936&left_text=~" alt="visitor count" /></div>
+# 👋 Shamim here! <div><picture><source media="(prefers-color-scheme: dark)" srcset="https://visitor-badge.laobi.icu/badge?page_id=aushamim.aushamim&left_color=%231f2936&right_color=%231f2936&left_text=~" /><source media="(prefers-color-scheme: light)" srcset="https://visitor-badge.laobi.icu/badge?page_id=aushamim.aushamim&left_color=%23f4f8ff&right_color=%231f2936&left_text=~" /><img align="right" alt="visitor count" /></picture></div>
 
 - 😄 I’m from Bangladesh <img src="https://cdn3.emoji.gg/emojis/5307-peepobangladesh.gif" width="40"/>
 - 🌱 I’m a **Full-Stack Web Developer** mainly focusing on **Front-end**
