@@ -5,9 +5,9 @@
 - 👀 I'm interested in **Development & Designing**
 - 💻 I am currently trying **competitive programming**
 - 🧠 I am currently learning **Next.js & Redux**
-- 🎮 I like to play games or watch anime on free time
-- 📖 I have graduated from **Daffodil International University** obtaining B.Sc degree
-  <!-- - 🤓 Next I will try to learn Next.JS also getting a job -->
+- 🎮 I like to play games or watch anime in my free time
+- 📖 I am a **Computer Science** graduate from **Daffodil International University**
+  <!-- - 🤓 Next I will try to learn Next.JS also get a job -->
 
 ### You can find me at
 
