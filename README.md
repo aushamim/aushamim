@@ -64,8 +64,8 @@
 ### My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aushamim/aushamim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aushamim/aushamim/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aushamim/aushamim/activity_snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aushamim/aushamim/activity_snake/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/aushamim/aushamim/output/github-contribution-grid-snake.svg" alt="snake eating my contribution animation" />
 </picture>
 
