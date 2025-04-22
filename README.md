@@ -52,7 +52,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,java,js" height="30" alt="language icons"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,php,java,js" height="30" alt="language icons"/>
 
 ### Competitive Programming
 
