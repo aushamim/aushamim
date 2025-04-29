@@ -13,8 +13,8 @@
 
 [![Facebook](https://img.shields.io/badge/au.shamim0-0866ff?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/au.shamim0/)
 [![Telegram](https://img.shields.io/badge/aushamim-1f2936?style=flat&logo=telegram&logoColor=white)](https://t.me/aushamim)
-[![LinkedIn](https://img.shields.io/badge/aushamim-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aushamim/)
-[![Email](https://img.shields.io/badge/au.shamim0@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:au.shamim0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/aushamim-0a66c2?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/aushamim/)
+[![Email](https://img.shields.io/badge/amzud.uddin@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:amzud.uddin@gmail.com)
 
 ### Technologies
 
