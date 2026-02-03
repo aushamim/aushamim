@@ -7,14 +7,14 @@
 - 🧠 I am currently learning **Next.js & Redux**
 - 🎮 I like to play games or watch anime in my free time
 - 📖 I am a **Computer Science** graduate from **Daffodil International University**
-  <!-- - 🤓 Next I will try to learn Next.JS also get a job -->
+  <!-- - 🤓 Next, I will try to learn Next.JS also get a job -->
 
 ### You can find me at
 
 [![Facebook](https://img.shields.io/badge/au.shamim0-0866ff?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/au.shamim0/)
-[![Telegram](https://img.shields.io/badge/aushamim-1f2936?style=flat&logo=telegram&logoColor=white)](https://t.me/aushamim)
 [![LinkedIn](https://img.shields.io/badge/aushamim-0a66c2?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/aushamim/)
 [![Email](https://img.shields.io/badge/amzud.uddin@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:amzud.uddin@gmail.com)
+<!-- [![Telegram](https://img.shields.io/badge/aushamim-1f2936?style=flat&logo=telegram&logoColor=white)](https://t.me/aushamim) -->
 
 ### Technologies
 
